@@ -1,4 +1,4 @@
-# IndustryReady_Advanced_CSharp
+# RealWorldCSharp
 
 A collection of advanced C# samples and best practices aimed at real-world, production-grade application development. This repository demonstrates robust concurrency patterns, performance optimizations, testing frameworks, and clean architecture principles—enabling you to build **industry-ready** C# applications.
 
